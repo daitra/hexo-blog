@@ -1,15 +1,15 @@
 menu:
-  Home: /
-  archives: /archives
-  categories: /categories
-  tags: /tags
+  首页: /
+  归档: /archives
+  分类: /categories
+  标签: /tags
 
 # gitment
-gitment: false
-gitment_owner:
-gitment_repo:
-gitment_client_id:
-gitment_client_secret:
+gitment: true
+gitment_owner: daitra@sina.com
+gitment_repo: Gitment
+gitment_client_id: b8322cc969e5b18107f5
+gitment_client_secret: f6aa8f1ec7d89022049e40ffdec3e7087a1f07d2
 
 # disqus comment
 disqus: false
